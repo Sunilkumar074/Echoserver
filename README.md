@@ -1,3 +1,5 @@
+# NAME : SUNIL KUMAR P.B.
+# REG NO : 212223040213
 # Echoserver
 Echo server and client using python socket
 # AIM:
@@ -85,10 +87,16 @@ httpd.serve_forever()
 ```
 
 
-## OUTPUT:
-### CLIENT OUTPUT:
+## OUTPUT :
 
-### SERVER OUTPUT:
+### CLIENT AND SERVER OUTPUT : 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c373a172-2a55-4587-a09f-c6194b57b0e4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b1c786d-5faf-42e1-80bf-da7634252635" />
+
+
+                                                                                                                      
+
+
 
 ## RESULT:
 The program is executed succesfully
